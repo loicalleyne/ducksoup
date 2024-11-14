@@ -1,0 +1,2 @@
+# ducksoup
+ Experiments with DuckDB
