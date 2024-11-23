@@ -1,4 +1,4 @@
-# ducksoup
+# ducksoup 🦆 
  Experiments with DuckDB
 
 
